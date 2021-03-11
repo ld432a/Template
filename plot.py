@@ -10,3 +10,6 @@ plt.plot(X,y_label,color="blue",label="label")
 
 # 直方图
 plt.hist(train[:,i],bins=100)
+
+
+# QQ图
